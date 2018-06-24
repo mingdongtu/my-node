@@ -1,0 +1,22 @@
+{
+  "name": "my-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingdongtu/my-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingdongtu/my-node/issues"
+  },
+  "homepage": "https://github.com/mingdongtu/my-node#readme",
+  "dependencies": {
+    "chalk": "^2.4.1"
+  }
+}
